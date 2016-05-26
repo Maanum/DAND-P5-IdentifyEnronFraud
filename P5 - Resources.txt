@@ -1,0 +1,18 @@
+Resources:
+
+	Documentation and standard references:
+
+		Wikipedia:				https://en.wikipedia.org/
+		Sci-Kit Learn Doc:		http://scikit-learn.org/stable/index.html
+		Python Doc.:			https://www.python.org/
+		Sourceforge:			https://sourceforge.net/
+
+	Articles:	
+		
+		"Needles and haystacks: Balancing precision and recall" by Sid Probstein
+			http://www.zdnet.com/article/needles-and-haystacks-balancing-precision-and-recall/
+		
+		"Simple guide to confusion matrix terminology" by Kevin Markham
+			http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
+			
+		
