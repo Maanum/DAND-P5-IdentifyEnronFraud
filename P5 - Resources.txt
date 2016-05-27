@@ -15,4 +15,8 @@ Resources:
 		"Simple guide to confusion matrix terminology" by Kevin Markham
 			http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 			
-		
+		"Data Mining and Knowledge Discovery Handbook" by Nitesh V. Chawla
+			https://www3.nd.edu/~dial/publications/chawla2005data.pdf (chapter "Data Mining For Imbalanced Datasets: An Overview" only)
+
+		"A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection" by Ron Kohavi
+			http://web.cs.iastate.edu/~jtian/cs573/Papers/Kohavi-IJCAI-95.pdf

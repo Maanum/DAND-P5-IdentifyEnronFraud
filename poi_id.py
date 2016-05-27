@@ -169,11 +169,11 @@ pipeline = Pipeline([#('fscale', scaler),
                      ('knn', knn)])
 
 params_test = dict(fselect__score_func = [f_classif],
-                  knn__n_neighbors=[3],
-                  fselect__k = [4],
-                  knn__weights = ['distance'],# 'uniform'],
-                  knn__algorithm = ['brute']) #, 'kd_tree', 'ball_tree'],
-                  #knn__leaf_size = [1, 3, 5])
+                  knn__n_neighbors=[3, 5, 7],
+                  fselect__k = [2, 3, 4],
+                  knn__weights = ['distance', 'uniform'],
+                  knn__algorithm = ['brute', 'kd_tree', 'ball_tree'],
+                  knn__leaf_size = [1, 3, 5])
 
 
 ###############################################################################
@@ -218,9 +218,6 @@ params_test = dict(fselect__score_func = [f_classif],
 #                     ('gnb', gnb)])
 #
 #params_test = dict(fselect__k = [2, 3, 4])
-
-
-
 
 
 ###############################################################################

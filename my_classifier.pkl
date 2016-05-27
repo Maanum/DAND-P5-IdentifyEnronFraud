@@ -169,7 +169,7 @@ sS'radius'
 p74
 NsS'leaf_size'
 p75
-I30
+I1
 sS'_fit_method'
 p76
 g60
